@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html> <!--Ouverture d'une balise html -->
+	<head> <!--Ouverture de l'entête -->
+		<meta charset="utf-8"/> <!--Définition de l'encodage -->
+		<link rel="stylesheet" href="design_martin.css" /><!--Lien vers la feuille css-->
+		<title>mon site brassens - Page index.html</title> 		 <!--Définition du titre de la page sur la fenêtre-->
+	</head> <!--Fermeture de l'entête-->
+	<body> <!--Ouverture de la balise body-->
+		<header>
+			
+		</header>
+			<nav> <!--Menu-->		
+				<ul>
+					<li><a href="index.html">Accueil</a></li>
+					<li><a href="contact.html">Contact</a></li>
+					<li><a href="pagebts.html">Le BTS SIO</a></li>
+					<li><a href="equipe.html">L'équipe</a></li>
+				</ul>
+			</nav>
+		<section>
+			<article>
+				<h1>Présentation du Lycée</h1>
+				<p>
+					Inauguré en 1965, sous le nom du lycée du Haut Mouillon est l’un des deux lycées publics de la ville de Rive-de-Gier (le second étant le Lycéée Professionnel René Cassin). C’est au début des années 1980 qu’il fut rebaptisé Lycée Georges Brassens, sous l’impulsion de M. Thévenon occupant la fonction de Chef de Ttravaux au sein de l’établissement, et passionné par l’auteur compositeur interprète. </p>
+					<p>Nous accueillons aujourd’hui quotidiennement près de 1000 élèves, dont une centaine d’étudiants en BTS. il se situe sur la commune de Rive de Gier, à 40 kilomètres de Lyon et 24 kilomètres de Saint-Etienne sur l’axe de la vallée du Gier.</p>
+					<p>----------------------------------------------------</p>
+					<p>La spécificité de notre établissement tient à la variété et à la complémentarité des parcours qu’il offre à ses élèves, à ses étudiants et ainsi qu’aux adultes en recherche d’un diplôme, d’une qualification ou d’une insertion professionnelle. Outre le baccalauréat général et ceux à vocation technologique (STI2D, STMG), nous offrons des un riche éventail de poursuites d’études en sections de techniciens supérieurs (SN-IR, Technico-commercial, SIO).</p>
+					<p>Quel que soit son niveau d’entrée au lycée, un élève ou un étudiant peut ainsi bénéficier de classes passerelles et poursuivre ses études jusqu’à « bac +3 » (License pro en partenariat avec l’université de Saint Etienne), en formation initiale traditionnelle. </p>
+
+					<p>La polyvalence de notre lycée répond à la diversité des publics ainsi qu’à un triple défi : 
+					•	assurer la pérennité d’un enseignement général et la transmission d’une culture indispensables à tous les niveaux de la formation intellectuelle ou professionnelle des jeunes ;
+					•	favoriser la transmission des valeurs républicaines et la capacité d’adaptation des futurs citoyens en vue de faciliter leur insertion sociale et professionnelle ;
+					•	qualifier, adapter, requalifier et apporter ainsi notre pierre à l’édifice de l’école tout au long de la vie, rendue indispensable dans un monde qui connaît des évolutions extrêmement rapides dans tous les domaines des sciences et des techniques.</p>
+					<p>----------------------------------------------------</p>
+					<img src="images/lycee.jpg" class="image">
+				</p>
+			</article>
+			<aside>
+				<h1>À propos de Georges Brassens</h1>
+				<img src="images/georgesbrassens.jpg" class="photobrassens" alt="M. Brassens" title="Georges Brassens" />
+				<p>
+					Georges Brassens est né à Sète, (Hérault - France), le 22 octobre 1921 et mort à Saint-Gély-du-Fesc le 29 octobre 1981. Grand poète et auteur-compositeur-interprète français, il mit en musique et interpréta, en s’accompagnant à la guitare, plus d'une centaine de ses poèmes. 
+					Au cours de sa longue carrière dans la musique, il enregistra de 1952 à 1976, quatorze albums. En 1967, il reçut le Grand Prix de poésie de l'Académie française. </p>
+
+					<p>Georges Brassens est né dans un quartier populaire du port de Sète. Il est entouré de sa mère Elvira, de son père Jean-Louis, de sa demi-sœur Simone et de ses grands-parents paternels, Jules et Marguerite. Sa mère, originaire de Marsico Nuovo dans la région de Basilicate en Italie du sud, est une fervente catholique, quant à son père, entrepreneur de maçonnerie, il est un homme paisible, généreux, libre-penseur, anticlérical et doté d'une grande indépendance d'esprit. Deux caractères qui s’opposent et qu'une chose réunit : le goût de la chanson.  </p>
+					  
+					<p>En 1936, Georges Brassens s'ouvre à la poésie grâce à son professeur de français. L’adolescent s’enhardit et lui soumet quelques-uns de ses bouts rimés. Loin de le décourager, l'enseignant lui conseille plus de rigueur. À la poésie et à la chanson populaire s’ajoute sa passion pour les rythmes nouveaux venus d’Amérique En France, Charles Trenet sera son modèle. Des airs italiens (« O sole mio.. ») chantés par sa mère, en passant par Charles Trenet, Tino Rossi, Ray Ventura ou Mireille, tout est bon à entendre et à comprendre. A quinze ans, il écrit ses premières chansons sur des musiques de Trenet et sent des airs de swing titiller ses trouvailles. La mode du jazz-band, venue d’Outre-atlantique et popularisée en France par Ray Ventura, marquera pour toujours la rythmique de Brassens. </p>
+
+					<p>Brassens aurait pu devenir maçon auprès de son père mais, peine perdue, il persuade ses parents de le laisser tenter sa chance à Paris. 
+					Chez sa tante, il se met au piano et passe ses journées à la bibliothèque municipale du quartier. Conscient de ses lacunes en matière de poésie, il apprend la versification et lit Villon, Baudelaire, Verlaine, Hugo et tant d’autres. Il acquiert ainsi une grande culture littéraire qui le pousse à écrire ses premiers recueils de poésie : Les Couleurs vagues, Des coups d'épée dans l'eau, annonçant le style des chansons à venir. </p>
+
+					<p>En 1951, Brassens rencontre Jacques Grello, chansonnier et pilier du Caveau de la République qui, après avoir écouté Brassens, lui offre sa propre guitare et lui conseille de s'accompagner seul sur scène. Ainsi il l'introduit dans divers cabarets pour qu'il soit auditionné. Sur scène, Brassens ne s’impose pas. Intimidé, paralysé par le trac, suant, il est profondément mal à l'aise. Il évoque une préférence pour l'écriture et préfèrerait que des chanteurs accomplis interprètent ces textes. </p>
+
+					<p>Le film d’Yves Robert, Les Copains, sort en 1965. Pour le générique, Brassens a composé "Les Copains d’abord". Le succès qu’elle rencontre est tel qu’il rejaillit sur les ventes de son album et sur son triomphe à Bobino en 1965. Jacques Brel, qu’il a connu aux « 3 Baudets » en 1953, est son voisin ; il s’apprête à faire ses adieux sur la scène de l’Olympia. Par amitié, Brassens écrit le texte de cet événement. Du 16 septembre au 22 octobre, Georges Brassens se produit sur les planches du Théâtre national populaire avec Juliette Gréco qui en assure la première partie. Chaque soir, il présente sa "Supplique pour être enterré sur la plage de Sète" et fait part de son "Bulletin de santé" (en réponse aux rumeurs distillées par la presse) et pour faire bonne mesure. Habitué à souffrir de ses calculs rénaux, il a laissé passer le temps. Au mois de mai 1967, une nouvelle crise l’oblige à interrompre une tournée pour subir une deuxième opération des reins. Le 8 juin, parrainé par Marcel Pagnol et Joseph Kessel, l'Académie française lui décerne le Grand Prix de poésie pour l’ensemble de son œuvre. Brassens en est honoré mais pense ne pas le mériter. Le 6 janvier 1969, à l'initiative du magazine Rock & Folk et de RTL, Georges Brassens, Léo Ferré et Jacques Brel sont invités à débattre autour d'une table. Cette année-là, il franchit les limites du quatorzième arrondissement pour emménager dans une maison du quartier Saint-Lambert (Georges Brassens a vécu l'essentiel de sa vie parisienne au 9, impasse Florimont, puis au 42, rue Santos-Dumont). 
+					Bobino l'attend à nouveau à partir du 14 octobre. Lui qui avait comme modèle de réussite Paul Misraki, parce qu'il était chanté partout sans être connu du grand public, ne se doutait pas qu'un jour il accéderait à la renommée internationale. </p>
+
+					<p>On lui a consacré plus de cinquante thèses, on le chante partout : au Japon, en Russie, en Amérique du Nord, en Italie, etc. Georges Brassens, personnage d’une immense discrétion a écrit son nom dans le patrimoine artistique français, sont style poétique fait de mélodies simples est encore aujourd’hui dans tous les esprits.</p>
+			
+
+			</aside>
+		</section>
+
+		
+	</body>
+	<footer><!-- pied de page -->	
+		<br/>
+			Copyright – S T - Tous droits réservés<br />
+	</footer>
+</html>
