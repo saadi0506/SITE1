@@ -1,0 +1,104 @@
+p
+{
+margin: auto; /* le bloc est centré avec auto */
+text-align: justify; /*Le texte est justifié*/
+padding: 4px; /*Il permet de faire un écarts des 4 côtés sur 4px*/
+overflow: auto; /* barre de défilement pour le texte qui dépasse */
+}
+
+nav
+{
+width: 150px; /* le menu occupe 150 pixel de large */
+float: left; /*Le navigateur flote à gauche*/
+border-radius: 20px; /*Bordure arrondie*/
+background-color: white;/*La couleur du fond est blanc */
+color: purple;
+}
+
+a{
+color: purple;/*La couleur du texte est violet*/
+text-decoration: none; /*On enlèvre le style des liens*/
+font-style: italic; /*Le texte est en italique*/
+}
+
+a:hover { /*Lorsque qu'on survole les liens*/
+	color: grey; /*La couleur du texte est grise*/
+}
+
+section
+{
+margin-left: 160px; /* marge extérieure à gauche de 160 pixel */
+height: 500px; /* hauteur du bloc de 500 px */ 
+overflow: auto; /*Cela permet de réaliser une barre de défilement automatiquement par rapport à la taille maximal de la zone*/
+}
+
+article
+{
+display: inline-block; /* pour les positionner côte à côte */ 
+vertical-align: top; /* aligné en haut */
+width: 400px; /* largeur du bloc */ 
+background-color: #C0C0C0;
+color: black;/*La couleur du texte est noir*/
+padding: 10px;
+
+}
+
+aside
+{
+display: inline-block; /* pour les positionner côte à côte */ 
+vertical-align: top; /* aligné en haut */
+position: relative; /* position relative % à l'article ci-dessus */ 
+width: 200px; /*La taille est de 200px*/
+background-color: #706b64; /*Il désigne la couleur de fond*/
+border-radius: 5px; /*Il permet de faire des bords arrondis*/
+margin-left: 15px; /* marge ext. gauche pour ne pas coller à l'article */ 
+padding: 10px; /* marge intérieure pour le texte */
+color: white; 
+font-size: 0.9em; /*La taille du texte est 0.9em*/
+}
+
+body
+{
+width: 850px; /* Pour fixer la largeur de la page */
+margin: auto; /* Pour centrer la page */
+margin-top: 20px; /* Pour éviter de coller avec le haut du navigateur */ 
+margin-bottom: 20px; /* Idem pour le bas du navigateur */
+background-image: url("images/fond1.png"); /* Image de fond */
+}
+
+h1
+{
+text-align: center; /* pour centrer les titres */
+}
+
+header /* en-tête */
+{
+width: 850px; 
+height: 95px; /* La largeur est de 95px*/
+background-image: url("images/banniere.jpg"); /* bannière en fond */
+background-repeat: no-repeat; /*On ne repète pas la bannière*/
+margin-bottom: 10px; /*Marge de 10 px en bas*/
+border-radius: 5px; 
+}
+
+footer /* pied-de-page */
+{
+text-align: right; /* signature alignée à droite */ 
+font-style: italic; /* en italique */
+}
+
+article, aside /* propriétés pour les 2 attributs */
+{
+display: inline-block; /* pour les positionner côte à côte */ vertical-align: top; /* Tous deux alignés en haut */
+text-align: justify; /* texte justifié (aligné à droite et à gauche) */
+}
+
+.photobrassens /* propriétés de la photo de Georges */
+{
+margin-left: 25px; 
+width: 150px; /*La largeur est de 150px*/
+border: 1px solid white; /*On réalise une bordure sur la photo de 1px en blanc*/
+}
+.image{
+	border: 1px solid white;
+}
